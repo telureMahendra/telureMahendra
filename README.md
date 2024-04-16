@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Mahendra Telure and I'm a JAVA Fullstack Developer, from Maharashtra</h2>
+<h2 align="left">Hi 👋! My name is Mahendra Telure 
+  and I'm a JAVA Fullstack Developer, 
+  from Maharashtra</h2>
 
 ###
 
