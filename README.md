@@ -62,5 +62,6 @@
 
 <br clear="both">
 ![snake animation](https://github.com/telureMahendra/telureMahendra/blob/output/github-contribution-grid-snake2.svg)
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
