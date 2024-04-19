@@ -12,7 +12,7 @@ A passionate JAVA Fullstack developer from India
 
 ###
 
-<!-- <img align="right" height="150" src="https://avatars.githubusercontent.com/u/68318009?v=4"  /> -->
+ <img align="right" height="150" src="https://avatars.githubusercontent.com/u/68318009?v=4"  /> 
 
 ###
 
