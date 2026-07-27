@@ -25,7 +25,7 @@ A passionate JAVA Fullstack developer from India
 
 - 🌱 I’m currently learning **JAVA, Spring, MVC, Microservices**
 
-- 👨‍💻 All of my projects are available at [https://mahendratelure.me/](https://mahendratelure.me/)
+- 👨‍💻 All of my projects are available at [https://mahendratelure.me/](https://teluremahendra.netlify.app/)
 
 - 💬 Ask me about **Java, Spring, Angular**
 
