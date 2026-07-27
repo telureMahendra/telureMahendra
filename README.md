@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahendra Telure  </br>
-A passionate JAVA Fullstack developer from India
+A passionate Software developer from India
 </h1>
 
 
