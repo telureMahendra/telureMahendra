@@ -36,7 +36,7 @@ A Passionate Full Stack & Mobile Developer from India 🇮🇳
 
 - 💬 Ask me about **Java, Spring Boot, Flutter, Android, .NET, Angular, React, PostgreSQL, Docker**
 
-- 👨‍💻 Portfolio: **https://mahendratelure.me/**
+- 👨‍💻 Portfolio: **https://teluremahendra.netlify.app/**
 
 - 📄 Resume:
   **https://drive.google.com/drive/folders/1a7yc0SQ13urrrJnNWV_bsxKna7tMzMgW**
