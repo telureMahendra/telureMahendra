@@ -1,59 +1,186 @@
-<h1 align="center">Hi 👋, I'm Mahendra Telure  </br>
-A passionate Software developer from India
-</h1>
+<h1 align="center">Hi 👋, I'm Mahendra Telure</h1>
 
+<h3 align="center">
+A Passionate Full Stack & Mobile Developer from India 🇮🇳
+</h3>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=telureMahendra&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=teluremahendra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=teluremahendra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
-
-
-###
-
- <img align="right" height="150" src="https://avatars.githubusercontent.com/u/68318009?v=4"  /> 
-
-###
-
-- 🌱 I’m currently learning **JAVA, Spring, MVC, Microservices**
-
-- 👨‍💻 All of my projects are available at [https://mahendratelure.me/](https://teluremahendra.netlify.app/)
-
-- 💬 Ask me about **Java, Spring, Angular**
-
-- 📫 How to reach me **telure123@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1a7yc0SQ13urrrJnNWV_bsxKna7tMzMgW](https://drive.google.com/drive/folders/1a7yc0SQ13urrrJnNWV_bsxKna7tMzMgW)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/teluremahendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="teluremahendra" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13742441" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13742441" height="30" width="40" /></a>
-<a href="https://instagram.com/teluremahendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="teluremahendra" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@techmahendra.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techmahendra.official" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/teluremahendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@teluremahendra" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=telureMahendra&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
+<div align="center">
 
+<img src="https://streak-stats.demolab.com?user=telureMahendra&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=10" height="220"/>
 
+</div>
 
-###
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=telureMahendra&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="170"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=telureMahendra&layout=compact&theme=dracula&hide_border=true" height="170"/>
 
-###
+</div>
 
-<br clear="both">
+---
 
-###
+<img align="right" alt="Coding" width="280" src="https://avatars.githubusercontent.com/u/68318009?v=4">
+
+## 👨‍💻 About Me
+
+- 🔭 Currently working on **Enterprise Java & Flutter Applications**
+
+- 🌱 Currently learning **Microservices, Kubernetes, System Design & Cloud Native Development**
+
+- 💬 Ask me about **Java, Spring Boot, Flutter, Android, .NET, Angular, React, PostgreSQL, Docker**
+
+- 👨‍💻 Portfolio: **https://mahendratelure.me/**
+
+- 📄 Resume:
+  **https://drive.google.com/drive/folders/1a7yc0SQ13urrrJnNWV_bsxKna7tMzMgW**
+
+- 📫 Email:
+  **telure123@gmail.com**
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/teluremahendra" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://stackoverflow.com/users/13742441" target="_blank">
+<img src="https://cdn.simpleicons.org/stackoverflow/F58025" width="48"/>
+</a>
+
+<a href="https://instagram.com/teluremahendra" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="https://www.youtube.com/@techmahendra.official" target="_blank">
+<img src="https://cdn.simpleicons.org/youtube/FF0000" width="48"/>
+</a>
+
+<a href="https://www.hackerrank.com/teluremahendra" target="_blank">
+<img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="48"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,cs,dart,js,ts,python" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs" />
+</p>
+
+## Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio" />
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=angular,react,html,css" />
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" />
+</p>
+
+## DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,gitlab,linux" />
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=postman,vscode,idea,visualstudio" />
+</p>
+
+## Messaging & Monitoring
+
+<p>
+<img src="https://skillicons.dev/icons?i=redis" />
+<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="48"/>
+<img src="https://www.vectorlogo.zone/logos/jaegertracingio/jaegertracingio-icon.svg" width="48"/>
+</p>
+
+---
+
+# 🚀 Specializations
+
+- ✅ Enterprise Application Development
+- ✅ Full Stack Development
+- ✅ Mobile App Development
+- ✅ REST API Development
+- ✅ Microservices Architecture
+- ✅ Event-Driven Architecture (Kafka)
+- ✅ DevOps & CI/CD
+- ✅ Docker & Kubernetes
+- ✅ Cloud Deployment (AWS)
+- ✅ Database Design & Optimization
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=telureMahendra&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=telureMahendra&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=telureMahendra&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=telureMahendra&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=telureMahendra&theme=github_dark&utcOffset=5.5"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=telureMahendra&theme=dracula&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 💡 Quote
+
+<p align="center">
+
+> **"Code. Learn. Build. Repeat." 🚀**
+
+</p>
