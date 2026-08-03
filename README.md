@@ -141,41 +141,7 @@ A Passionate Full Stack & Mobile Developer from India 🇮🇳
 
 ---
 
-# 📊 GitHub Analytics
 
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=telureMahendra&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=telureMahendra&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=telureMahendra&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=telureMahendra&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=telureMahendra&theme=github_dark&utcOffset=5.5"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=telureMahendra&theme=dracula&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
 
 # 💡 Quote
 
